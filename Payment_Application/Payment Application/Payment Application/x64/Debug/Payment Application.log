@@ -1,0 +1,34 @@
+﻿  App.c
+C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\Payment Application\App\App.c(20,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\Payment Application\App\App.c(25,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\Payment Application\App\App.c(30,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\Payment Application\App\App.c(43,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\Payment Application\App\App.c(45,11): warning C4013: 'IsCardExpired' undefined; assuming extern returning int
+C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\Payment Application\App\App.c(48,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\Payment Application\App\App.c(50,6): warning C4013: 'IsValidPAN' undefined; assuming extern returning int
+C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\Payment Application\App\App.c(53,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\Payment Application\App\App.c(58,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\Payment Application\App\App.c(63,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\Payment Application\App\App.c(65,11): warning C4013: 'IsBelowMaxAmount' undefined; assuming extern returning int
+C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\Payment Application\App\App.c(68,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\Payment Application\App\App.c(81,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\Payment Application\App\App.c(86,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\Payment Application\App\App.c(88,36): warning C4020: 'isAmountAvailable': too many actual parameters
+C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\Payment Application\App\App.c(91,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\Payment Application\App\App.c(93,36): warning C4020: 'isAmountAvailable': too many actual parameters
+C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\Payment Application\App\App.c(96,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\Payment Application\App\App.c(101,3): warning C4098: 'main': 'void' function returning a value
+  Card.c
+C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\Payment Application\Card\Card.c(16,2): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\Payment Application\Card\Card.c(49,88): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\Payment Application\Card\Card.c(53,88): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  Server.c
+C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\Payment Application\Server\Server.c(39,1): warning C4029: declared formal parameter list different from definition
+  Terminal.c
+C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\Payment Application\Terminal\Terminal.c(12,2): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\Payment Application\Terminal\Terminal.c(128,22): warning C4267: 'initializing': conversion from 'size_t' to 'uint8_t', possible loss of data
+  Generating Code...
+C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\Payment Application\Server\Server.c(52): warning C4715: 'isAmountAvailable': not all control paths return a value
+C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\Payment Application\Server\Server.c(84): warning C4715: 'recieveTransactionData': not all control paths return a value
+C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\Payment Application\Server\Server.c(131): warning C4715: 'isBlockedAccount': not all control paths return a value
+  Payment Application.vcxproj -> C:\Users\Eldeeb\Desktop\Payment_Application\Payment Application\x64\Debug\Payment Application.exe
